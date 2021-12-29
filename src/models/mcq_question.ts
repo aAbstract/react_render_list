@@ -1,0 +1,1 @@
+export interface mcq_type { text: string, options: Array<string> };

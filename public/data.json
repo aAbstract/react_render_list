@@ -1,0 +1,91 @@
+{
+    "cats": [
+        {
+            "cat_name": "Survey Category 1",
+            "questions": [
+                {
+                    "text": "Q1",
+                    "options": [
+                        "low",
+                        "med",
+                        "hi"
+                    ]
+                },
+                {
+                    "text": "Q2",
+                    "options": [
+                        "low",
+                        "med",
+                        "hi"
+                    ]
+                },
+                {
+                    "text": "Q3",
+                    "options": [
+                        "low",
+                        "med",
+                        "hi"
+                    ]
+                }
+            ]
+        },
+        {
+            "cat_name": "Survey Category 2",
+            "questions": [
+                {
+                    "text": "Q1",
+                    "options": [
+                        "low",
+                        "med",
+                        "hi"
+                    ]
+                },
+                {
+                    "text": "Q2",
+                    "options": [
+                        "low",
+                        "med",
+                        "hi"
+                    ]
+                },
+                {
+                    "text": "Q3",
+                    "options": [
+                        "low",
+                        "med",
+                        "hi"
+                    ]
+                }
+            ]
+        },
+        {
+            "cat_name": "Survey Category 3",
+            "questions": [
+                {
+                    "text": "Q1",
+                    "options": [
+                        "low",
+                        "med",
+                        "hi"
+                    ]
+                },
+                {
+                    "text": "Q2",
+                    "options": [
+                        "low",
+                        "med",
+                        "hi"
+                    ]
+                },
+                {
+                    "text": "Q3",
+                    "options": [
+                        "low",
+                        "med",
+                        "hi"
+                    ]
+                }
+            ]
+        }
+    ]
+}
